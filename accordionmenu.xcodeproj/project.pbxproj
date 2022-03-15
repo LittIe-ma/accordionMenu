@@ -13,6 +13,7 @@
 		F300551327E0D643004D47E2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F300551127E0D643004D47E2 /* Main.storyboard */; };
 		F300551527E0D644004D47E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F300551427E0D644004D47E2 /* Assets.xcassets */; };
 		F300551827E0D644004D47E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F300551627E0D644004D47E2 /* LaunchScreen.storyboard */; };
+		F300552027E0DB24004D47E2 /* Extension+UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = F300551F27E0DB24004D47E2 /* Extension+UIButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F300551427E0D644004D47E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F300551727E0D644004D47E2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F300551927E0D644004D47E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F300551F27E0DB24004D47E2 /* Extension+UIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension+UIButton.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				F300550D27E0D643004D47E2 /* SceneDelegate.swift */,
 				F300550F27E0D643004D47E2 /* ViewController.swift */,
 				F300551127E0D643004D47E2 /* Main.storyboard */,
+				F300551F27E0DB24004D47E2 /* Extension+UIButton.swift */,
 				F300551427E0D644004D47E2 /* Assets.xcassets */,
 				F300551627E0D644004D47E2 /* LaunchScreen.storyboard */,
 				F300551927E0D644004D47E2 /* Info.plist */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F300551027E0D643004D47E2 /* ViewController.swift in Sources */,
+				F300552027E0DB24004D47E2 /* Extension+UIButton.swift in Sources */,
 				F300550C27E0D643004D47E2 /* AppDelegate.swift in Sources */,
 				F300550E27E0D643004D47E2 /* SceneDelegate.swift in Sources */,
 			);
